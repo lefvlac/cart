@@ -1,0 +1,30 @@
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(57, 136, 136);
+  padding: 20px 10px;
+  border-bottom: 5px solid #c2404096;
+  margin-bottom: 60px;
+}
+.header ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style: none;
+}
+.header ul li {
+  margin-left: 20px;
+}
+.header ul li a {
+  display: flex;
+  align-items: center;
+}
+.title {
+  padding: 10px 20px;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  cursor: pointer;
+}

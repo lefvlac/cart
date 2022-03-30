@@ -1,0 +1,30 @@
+.heading {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 50px;
+  padding: 0 20px;
+}
+.heading p {
+  color: #0c686e;
+}
+.form {
+  width: 70%;
+  margin: 0 auto;
+}
+.form-group {
+  margin-bottom: 10px;
+}
+.form-group input,
+.form-group select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #746262;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+.form-group label {
+  text-align: left;
+  display: block;
+  margin: 0 0 5px 3px;
+}
